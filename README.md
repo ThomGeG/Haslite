@@ -70,7 +70,7 @@ false
 
 ## Functions:
 Haslite supports function declarations through the following syntax:
-``FUNC_NAME = \ INPUT :: INPUT_TYPE -> BODY_EXPRESSION``
+``FUNC_NAME = \ ARG_NAME :: ARG_TYPE -> BODY_EXPRESSION``
 For example, an increment function:
 ```
 let 
