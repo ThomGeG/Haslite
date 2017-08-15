@@ -14,7 +14,7 @@ Examples: ``2 + 3 * 4`` = ``14``, ``3 * 4 + 2`` = ``14``, ``5 / 4 + 3 * 2 - 5 / 
 
 ### Relational Operators:
 Haslite only supports two operators for comparison; ``==`` and ``<``<br>
-Examples: ``1 < 2`` = ``true``, ``5 < 3`` = ``false``, ``1 == 1`` = false.
+Examples: ``1 < 2`` = ``true``, ``5 < 3`` = ``false``, ``1 == 1`` = ``false``.
 <br>Note: !=, >, <=, >= are <b>NOT</b> supported!
 
 ## Variable Declaration:
